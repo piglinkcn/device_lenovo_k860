@@ -1,0 +1,12 @@
+#file
+*.bak
+*.rar
+*.zip
+
+#dir
+tmp/
+
+#cache
+*.swp
+*~
+
